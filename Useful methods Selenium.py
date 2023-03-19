@@ -30,10 +30,12 @@ email_pole_task_5 = "//input[@placeholder='Enter email']"
 choose_file_task_5 = "//input[@id='file']"
 submit_button_task_5 = "//button[@class='btn btn-primary']"    #Valid for task_6
 
+
 # Task_8 locators
 price = "//h5[@id='price']"
 book_button = "//button[@id='book']"
 submit_button_task_8 = "//button[@id='solve']"
+
 
 # Others locators
 robot_check_box = "//input[@id='robotCheckbox']"
@@ -46,12 +48,6 @@ num_2_task_3 = "//span[@id='num2']"
 select_pole_task_3 = "//select[@class='custom-select']"
 chest = "//img[@id='treasure']"
 submit_button_task_7 = "//button[@class='trollface btn btn-primary']"
-
-
-
-
-
-
 
 
 def basic_settings():
