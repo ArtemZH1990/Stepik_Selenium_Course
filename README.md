@@ -1,2 +1,2 @@
 # Stepik_Selenium_Course
-This repositories has two chapter of Python automation course
+This repositories has a few chapters of Python automation course.
